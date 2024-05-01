@@ -34,12 +34,12 @@
 
 <p align="center">
   <!-- Gmail -->
-  <a href="mailto:riya.maurya@gmail.com">
+  <a href="mailto:riyamourya2017@gmail.com">
     <img height="40" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/riya-maurya-data-sci/" target="_blank">
+  <a href="https://www.linkedin.com/in/riya-maurya-b17a27185/" target="_blank">
     <img height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
@@ -66,9 +66,36 @@
 
 <h3 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #db7093;">🔨 Technologies & Tools I Use 🔨</h3>
 
+
 <p align="center">
-  <!-- Icons -->
-  <img src="https://skillicons.dev/icons?i=python,tableau,powerbi,ml,tensorflow,pytorch" />
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sql" width="40" height="40" alt="mysql"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=excel" width="40" height="40" alt="mongodb"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=jupyter" width="40" height="40" alt="react"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=numpy" width="40" height="40" alt="nextjs"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="Scikit-learn"/>
+</p>
+
+<p align="center">
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" alt="GCP"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pycharm" width="40" height="40" alt="PyCharm"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VSCode"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=anaconda" width="40" height="40" alt="Anaconda"/>
+</p>
+
+<p align="center">
+  <!-- Row 3 -->
+  <img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" alt="JavaScript"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS"/>
 </p>
 
 <hr/>

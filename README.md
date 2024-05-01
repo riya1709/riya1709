@@ -70,10 +70,9 @@
 <p align="center">
   <!-- Row 1 -->
   <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sql" width="40" height="40" alt="mysql"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=excel" width="40" height="40" alt="mongodb"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=jupyter" width="40" height="40" alt="react"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=numpy" width="40" height="40" alt="nextjs"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="mysql"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="mongodb"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="react"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="Scikit-learn"/>
@@ -107,12 +106,6 @@
 
 <hr/>
 
-<div align="center">
-  <h2 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: #4682b4;">🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/riya1709/riya1709/output/github-contribution-grid-snake.svg" />
-</div>
-
-<hr/>
 
 <h2 align="center" style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: #4682b4;">📈 My GitHub Stats 📈</h2>
 
@@ -121,7 +114,7 @@
     <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=riya1709&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   </a>
   <a href="https://github.com/riya1709">
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=riya1709&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=riya1709&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   </a>
 </p>
 
@@ -131,7 +124,7 @@
     <p style="font-size:18px; color:#6d6d6d; font-family:Arial, sans-serif; margin-bottom:10px;">
         Enjoy my work? Support me with a coffee! ☕
     </p>
-    <a href='https://ko-fi.com/riya' target='_blank'>
+    <a href='https://ko-fi.com/riyamaurya' target='_blank'>
         <img height='50' style='border:0px; height:50px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' alt='Buy Me a Coffee at ko-fi.com' />
     </a>
 </div>

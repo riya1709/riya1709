@@ -129,6 +129,17 @@
 
 <br/>
 
+<p align="center">
+  <!-- Spacing between cards -->
+  <br/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sanchay-T">
+    <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya1709&theme=react&border_radius=10&langs_count=8&layout=compact" alt="Riya's Top Languages" />
+  </a>
+</p>
+
 <div align="center">
     <p style="font-size:18px; color:#6d6d6d; font-family:Arial, sans-serif; margin-bottom:10px;">
         Enjoy my work? Support me with a coffee! ☕
